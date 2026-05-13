@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kastel-stack.org/schemas/scaling_lever.schema.json",
+  "title": "Scaling Lever",
+  "type": "object",
+  "required": ["id", "name", "owner", "outcome_metric"],
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string" },
+    "owner": { "type": "string" },
+    "outcome_metric": { "type": "string" },
+    "description": { "type": "string" }
+  },
+  "additionalProperties": false
+}
+

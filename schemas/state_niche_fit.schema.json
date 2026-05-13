@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kastel-stack.org/schemas/state_niche_fit.schema.json",
+  "title": "State Niche Fit",
+  "type": "object",
+  "required": ["internal_readiness", "external_legibility", "observable_outcome", "supervision_capacity"],
+  "properties": {
+    "internal_readiness": { "type": "number", "minimum": 0, "maximum": 1 },
+    "external_legibility": { "type": "number", "minimum": 0, "maximum": 1 },
+    "observable_outcome": { "type": "number", "minimum": 0, "maximum": 1 },
+    "supervision_capacity": { "type": "number", "minimum": 0, "maximum": 1 },
+    "notes": { "type": "string" }
+  },
+  "additionalProperties": false
+}
+

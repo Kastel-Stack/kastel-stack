@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kastel-stack.org/schemas/clarify_intent.schema.json",
+  "title": "Clarify Intent",
+  "type": "object",
+  "required": ["id", "question", "uncertainty", "next_decision"],
+  "properties": {
+    "id": { "type": "string" },
+    "question": { "type": "string" },
+    "uncertainty": { "type": "string" },
+    "next_decision": { "type": "string" },
+    "source_of_truth": { "type": "string" }
+  },
+  "additionalProperties": false
+}
+

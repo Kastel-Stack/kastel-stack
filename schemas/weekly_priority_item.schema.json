@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kastel-stack.org/schemas/weekly_priority_item.schema.json",
+  "title": "Weekly Priority Item",
+  "type": "object",
+  "required": ["id", "kind", "title", "reason"],
+  "properties": {
+    "id": { "type": "string" },
+    "kind": { "enum": ["action", "clarify", "review", "boundary"] },
+    "title": { "type": "string" },
+    "reason": { "type": "string" },
+    "owner": { "type": "string" }
+  },
+  "additionalProperties": false
+}
+

@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kastel-stack.org/schemas/delayed_review.schema.json",
+  "title": "Delayed Review",
+  "type": "object",
+  "required": ["id", "subject_id", "review_after", "criteria"],
+  "properties": {
+    "id": { "type": "string" },
+    "subject_id": { "type": "string" },
+    "review_after": { "type": "string", "format": "date" },
+    "criteria": { "type": "array", "items": { "type": "string" } },
+    "decision": { "enum": ["bank", "revise", "retire", "pending"] }
+  },
+  "additionalProperties": false
+}
+

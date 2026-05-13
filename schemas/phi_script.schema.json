@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kastel-stack.org/schemas/phi_script.schema.json",
+  "title": "Phi Script",
+  "type": "object",
+  "required": ["id", "name", "trigger", "steps", "evidence"],
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string" },
+    "trigger": { "type": "string" },
+    "steps": { "type": "array", "items": { "type": "string" } },
+    "evidence": { "type": "array", "items": { "type": "string" } },
+    "boundary_conditions": { "type": "array", "items": { "type": "string" } }
+  },
+  "additionalProperties": false
+}
+

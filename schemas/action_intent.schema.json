@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kastel-stack.org/schemas/action_intent.schema.json",
+  "title": "Action Intent",
+  "type": "object",
+  "required": ["id", "title", "lever_id", "gate", "source_of_truth", "expected_learning"],
+  "properties": {
+    "id": { "type": "string" },
+    "title": { "type": "string" },
+    "lever_id": { "type": "string" },
+    "gate": { "enum": ["auto", "draft", "escalate", "blocked"] },
+    "source_of_truth": { "type": "string" },
+    "expected_learning": { "type": "string" },
+    "risk_notes": { "type": "string" }
+  },
+  "additionalProperties": false
+}
+

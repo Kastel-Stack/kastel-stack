@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kastel-stack.org/schemas/weekly_review.schema.json",
+  "title": "Weekly Review",
+  "type": "object",
+  "required": ["week_start", "priorities"],
+  "properties": {
+    "week_start": { "type": "string", "format": "date" },
+    "priorities": { "type": "array", "items": { "$ref": "./weekly_priority_item.schema.json" } },
+    "notes": { "type": "string" }
+  },
+  "additionalProperties": false
+}
+

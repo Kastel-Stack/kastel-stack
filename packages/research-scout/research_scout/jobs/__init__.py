@@ -1,0 +1,1 @@
+"""Research scout job helpers."""

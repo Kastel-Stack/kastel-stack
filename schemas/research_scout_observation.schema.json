@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kastel-stack.org/schemas/research_scout_observation.schema.json",
+  "title": "ResearchScoutObservation",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "contract",
+    "observation_id",
+    "criteria_id",
+    "source",
+    "title",
+    "url",
+    "score",
+    "observed_at"
+  ],
+  "properties": {
+    "contract": {
+      "const": "ResearchScoutObservation.v1"
+    },
+    "observation_id": {
+      "type": "string",
+      "minLength": 8
+    },
+    "criteria_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source": {
+      "type": "string",
+      "minLength": 1
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "doi": {
+      "type": ["string", "null"]
+    },
+    "year": {
+      "type": ["integer", "null"],
+      "minimum": 1500
+    },
+    "venue": {
+      "type": ["string", "null"]
+    },
+    "citation_count": {
+      "type": ["integer", "null"],
+      "minimum": 0
+    },
+    "is_open_access": {
+      "type": ["boolean", "null"]
+    },
+    "score": {
+      "type": "number",
+      "minimum": 0
+    },
+    "required_hits": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "optional_hits": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "method_hits": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "review_flags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "observed_at": {
+      "type": "string",
+      "format": "date-time"
+    }
+  }
+}

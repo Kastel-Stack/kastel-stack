@@ -60,6 +60,7 @@ It will contain:
 manifesto and values documents
 sovereignty and anti-capture principles
 architecture notes
+research scout notes
 G Kernel specifications
 state–niche fit specifications
 external niche map specifications
@@ -95,6 +96,8 @@ Kastel Stack is being developed around several reusable components:
 - **Policy Pack** — rules for Auto, Draft, Escalate and Blocked actions
 - **Script Library** — validated operating patterns and reusable Φ-Scripts
 - **Connector Pack** — typed integrations with tools such as GitHub, Supabase, Stripe, Brevo, Cloudflare and others
+
+Research Scout is currently incubating as a criteria-driven paper discovery and evidence triage package under `packages/research-scout/`.
 
 ---
 
@@ -206,6 +209,7 @@ kastel-stack/
   examples/
   docker/
   packages/
+    research-scout/
   .github/
 ```
 

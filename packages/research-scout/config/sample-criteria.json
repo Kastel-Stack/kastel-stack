@@ -1,0 +1,12 @@
+{
+  "criteria_id": "cognitive-training-transfer-v1",
+  "query": "working memory training far transfer randomized controlled trial",
+  "required_terms": ["working memory", "training"],
+  "optional_terms": ["far transfer", "randomized", "active control", "intelligence", "reasoning"],
+  "excluded_terms": ["review protocol", "animal study"],
+  "min_year": 2010,
+  "require_open_access": false,
+  "min_citation_count": 0,
+  "preferred_methods": ["randomized", "active control", "longitudinal", "meta-analysis"],
+  "preferred_sources": ["openalex", "semantic_scholar", "pubmed", "crossref", "arxiv"]
+}

@@ -6,6 +6,10 @@ Kastel Stack is an open, auditable framework for helping independent operators, 
 
 It is designed for founder-led businesses, specialist teams, creator enterprises, research-led ventures, artisan businesses and decentralised operator networks that want intelligent growth without surrendering agency to black-box platforms, hyperscaler lock-in, venture-capital growth logic or unsupervised agentic automation.
 
+Kastel uses a specific meaning of scaling. Scaling does **not** mean maximising growth, automation, engagement, extraction or output at any cost. It means widening the viable operating band of an enterprise while it remains truthful, solvent, adaptive, human-governed and coupled to its real niche.
+
+In Trident-G terms, this is enterprise allostasis: keeping the organisation inside a viable operating band as load, uncertainty, opportunity and market context change. State–niche fit is the external coupling test for that band.
+
 ---
 
 ## Core idea
@@ -25,6 +29,8 @@ offer
 ```
 
 The goal is not to automate everything.
+
+The goal is governed adaptation.
 
 The goal is to help a business:
 
@@ -47,6 +53,8 @@ adaptive problem-solving under uncertainty
 → operating schemas
 → strategic invariants
 ```
+
+Kastel Stack is also a cognitive skill-development scaffold for the operator. Each loop should make judgement more explicit: signal, evidence, variable, hypothesis, discriminating probe, feedback, model update and banked script.
 
 ---
 
@@ -110,6 +118,7 @@ open
 auditable
 human-gated
 anti-capture
+non-extractive
 source-of-truth grounded
 state–niche aware
 privacy-conscious

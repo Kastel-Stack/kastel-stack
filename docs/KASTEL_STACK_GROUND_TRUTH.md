@@ -1,14 +1,26 @@
-# Kastel Stack — Ground Truth 
+# Kastel Stack — Ground Truth
 
-**A Trident-G-aligned adaptive scaling operating system for independent, digitally legible enterprises, small teams and cross-border operator networks.**
+**A Trident-G-aligned, human-supervised adaptive scaling operating system for sovereign, digitally legible enterprises, small teams and cross-border operator networks.**
 
 Kastel Stack is an open, auditable framework for helping independent operators model their business, connect their tools, detect bottlenecks, monitor live market signals, propose safe actions, preserve human judgement, and bank what works as reusable operating capability.
 
 It is designed for founder-led businesses, artisan and creator enterprises, specialist teams, small ventures and cross-border operating networks that want intelligent growth without surrendering agency to black-box platforms, venture-capital growth logic, hyperscaler lock-in, enterprise-scale control systems or unsupervised agentic automation.
 
-Kastel treats trends, search behaviour, social language, buyer objections, competitor positioning, platform metrics and cultural narratives as **surface signals**: useful wrappers for discovery and positioning, but not substitutes for evidence, proof, source-of-truth data, semantic clarity or strategic judgement.
+Kastel treats trends, search behaviour, social language, buyer objections, competitor positioning, platform metrics and cultural narratives as **surface signals**: useful wrappers for discovery and positioning, but not substitutes for evidence, proof, source-of-truth data, semantic clarity, value judgement or strategic inference.
 
-The minimum viable quality of Kastel Stack is not “automate everything”.
+Kastel uses a specific meaning of scaling.
+
+Scaling does **not** mean maximising growth, automation, engagement, extraction or output at any cost. It means widening the viable operating band of an enterprise: the range of decisions, actions, offers, partnerships, systems and feedback loops it can handle while remaining truthful, solvent, adaptive, human-governed and coupled to its real niche.
+
+Kastel is therefore a **non-extractive adaptive scaling system**. It does not treat the business, its customers, its data or its niche as quantities to be mined. It treats them as part of a coupled operating ecology that must remain legible, reciprocal, governable and viable.
+
+In Trident-G terms, Kastel treats enterprise scaling as an allostatic problem. The business should remain inside a viable operating band as load, uncertainty, opportunity, demand, tooling and market context change. State–niche fit is the external coupling test for that band: action should generate interpretable feedback from the real niche rather than merely increasing activity.
+
+The minimum viable quality of Kastel Stack is not:
+
+```text
+automate everything
+```
 
 It is:
 
@@ -16,8 +28,10 @@ It is:
 define the business as a scaling model hypothesis
 → model the business clearly
 → identify the proposed strategic invariant
-→ detect one real bottleneck or opportunity
+→ detect one real bottleneck, opportunity or uncertainty source
 → diagnose state–niche fit
+→ model semantics and value
+→ generate a hypothesis
 → propose one gated action or clarification move
 → observe the outcome
 → test whether it transfers
@@ -29,10 +43,19 @@ Kastel Stack is therefore a **Gf → Gc conversion engine for business operation
 
 ```text
 Gf = adaptive business problem-solving under uncertainty
+
 Gc = banked routines, scripts, models, automations, playbooks and operating schemas
+
 surface wrapper = the current market-facing route into the deep business structure
+
+semantic event = a signal interpreted in relation to the business ontology
+
+value signal = why the event matters for viability, trust, proof, revenue, learning, workload, risk or strategic direction
+
 strategic invariant = a reusable structure that survives wrapper, segment, channel or context change
+
 business scaling model hypothesis = a testable conjecture about how offer, niche, proof, route to market, delivery and feedback may combine into a controlled scaling loop
+
 Kastel Stack = a supervised adaptive operating system for discovering, testing and banking strategic invariants
 ```
 
@@ -84,6 +107,21 @@ Would acting now teach us something?
 Or should we clarify first?
 ```
 
+Kastel is not a generic optimisation loop.
+
+It does not ask:
+
+```text
+How do we maximise traffic, engagement, conversion, automation or growth?
+```
+
+It asks:
+
+```text
+How do we widen the viable operating band of the enterprise
+while preserving truth, judgement, trust, niche coupling and human governance?
+```
+
 This matters because a business can become internally busy while externally decoupled. That produces activity without learning.
 
 The core Kastel failure mode is therefore:
@@ -100,15 +138,29 @@ The corrected Kastel sequence is:
 
 ```text
 surface signal
+→ semantic event
 → variable abstraction
+→ semantics-value map
 → business state map
 → external niche map
 → state–niche fit estimate
+→ hypothesis generation
 → Action Intent or Clarify Intent
 → outcome observation
 → wrapper / segment / channel / niche-context swap
 → boundary and delayed checks
 → script banking only if portable
+```
+
+The compact doctrine is:
+
+```text
+Stay viable.
+Stay truthful.
+Stay coupled to the niche.
+Act when the next move is clear.
+Clarify when the world is ambiguous.
+Bank only patterns that remain portable, bounded and safe.
 ```
 
 ---
@@ -123,9 +175,11 @@ It turns business signals into adaptive learning loops:
 
 ```text
 signals
-→ typed events
-→ semantic model
+→ semantic events
+→ business variables
+→ semantics-value model
 → state–niche diagnosis
+→ hypothesis
 → gated action or clarification
 → outcome
 → validation
@@ -137,6 +191,7 @@ Kastel works across two levels at once:
 
 ```text
 deep structure = what the business actually does, proves, delivers, risks and learns
+
 surface wrapper = the current language, trend, channel, region or customer-facing route through which people encounter it
 ```
 
@@ -146,9 +201,104 @@ For example, a cognitive-training business may have a deep structure based on at
 
 The goal is to help a business become more capable over time by converting uncertain adaptive work into tested routines, scripts, policies, dashboards, operating procedures and higher-order operating principles.
 
+A useful action is not banked merely because it worked once.
+
+It becomes reusable operating intelligence only when:
+
+```text
+the relevant source of truth is known
+the semantic definition is clear
+the value of the outcome is understood
+the niche context is recorded
+the boundary conditions are known
+the risk is bounded
+the pattern survives changed conditions
+the result remains useful after delay
+```
+
 ---
 
-## 3. Business Scaling Model Hypothesis
+## 3. How Kastel differs from frontier agentic AI
+
+Kastel sits near enterprise AI, agentic infrastructure and operational intelligence, but it is built around a different operating model.
+
+Many frontier agentic AI systems focus on:
+
+```text
+centralising operational data
+automating workflows
+increasing throughput
+coordinating agents
+making autonomous systems act reliably at scale
+optimising enterprise processes
+```
+
+Kastel takes a different route.
+
+It is not a closed enterprise intelligence platform, a black-box automation layer, an unsupervised agent swarm, or a system for replacing organisational judgement with autonomous agents.
+
+It is a human-supervised operating doctrine and software scaffold for adaptive scaling.
+
+Kastel uses agents, schemas, connectors and workflows, but the goal is not autonomous enterprise optimisation.
+
+The goal is:
+
+```text
+widen the viable operating band of a sovereign enterprise
+while preserving truth, judgement, niche fit, privacy, security and human control
+```
+
+Kastel agents are therefore not designed to optimise blindly for:
+
+```text
+growth
+engagement
+conversion
+productivity
+automation volume
+throughput
+```
+
+They are designed to route signals through:
+
+```text
+source-of-truth checks
+semantic definitions
+value interpretation
+state–niche fit estimates
+Action / Clarify gates
+human judgement gates
+delayed review
+script-banking rules
+```
+
+The contrast is:
+
+```text
+conventional frontier agentic AI:
+make autonomous systems more capable, reliable and scalable
+
+Kastel Stack:
+make human-governed enterprises more adaptive, legible and sovereign
+```
+
+Kastel scales operating intelligence by widening the viable action band of the enterprise, not by maximising extraction from its niche.
+
+The aim is not:
+
+```text
+agentic AI for enterprise automation
+```
+
+The aim is:
+
+```text
+agentic infrastructure for sovereign, human-supervised, non-extractive scaling
+```
+
+---
+
+## 4. Business Scaling Model Hypothesis
 
 Kastel does not assume that every business starts with the same scaling priorities, or even with one fixed strategy.
 
@@ -158,7 +308,7 @@ In Kastel terms, the first question is not:
 
 ```text
 How do we optimise this business?
-````
+```
 
 It is:
 
@@ -277,7 +427,9 @@ The strategy hypothesis portfolio lets Kastel compare possible routes into that 
 
 For example, a generic small SaaS product, a proof-led cognitive training business, an artisan ecommerce business and a B2B clinic-facing app may all need measurement, governance, privacy and source-of-truth discipline. But they do not begin with the same strategic priority order. Each starts with a different hypothesis, or set of hypotheses, about where useful linear improvement, controlled non-linear scaling and portable operating intelligence may emerge.
 
-## 4. MVQ scope
+---
+
+## 5. MVQ scope
 
 The first Kastel build should not attempt to cover every business lane at once.
 
@@ -289,15 +441,17 @@ The minimum viable quality target is one reliable closed loop:
 3. Instrument the business.
 4. Define key events and semantic objects.
 5. Detect one bottleneck, opportunity or uncertainty source.
-6. Diagnose internal state and external niche legibility.
-7. Decide whether to act or clarify.
-8. Route the output through a safety gate.
-9. Execute, draft or clarify.
-10. Observe source-of-truth outcomes.
-11. Test portability across at least one changed wrapper, segment, channel, partner context or timing condition where feasible.
-12. Estimate whether the loop is moving towards controlled B > 1 scaling.
-13. Review after delay.
-14. Bank, revise or retire the script.
+6. Interpret the signal semantically.
+7. Identify why it matters for value, viability, trust, proof, revenue, risk or workload.
+8. Diagnose internal state and external niche legibility.
+9. Decide whether to act or clarify.
+10. Route the output through a safety gate.
+11. Execute, draft or clarify.
+12. Observe source-of-truth outcomes.
+13. Test portability across at least one changed wrapper, segment, channel, partner context or timing condition where feasible.
+14. Estimate whether the loop is moving towards controlled B > 1 scaling.
+15. Review after delay.
+16. Bank, revise or retire the script.
 ```
 
 The MVQ standard is:
@@ -307,6 +461,7 @@ Hypothesis-led.
 Typed.
 Linked.
 Semantically defined.
+Value-aware.
 Source-of-truth grounded.
 State–niche aware.
 Permissioned.
@@ -318,36 +473,43 @@ Delayed.
 Banked only after proof.
 ```
 
-## 5. Trident-G alignment: how the G Kernel learns
+---
+
+## 6. Trident-G alignment: how the G Kernel learns
 
 Kastel’s G Kernel is not a generic optimisation loop. It is designed to approximate the Trident-G learning cycle in business-operational form.
 
 The kernel distinguishes:
 
-| Object                     | Meaning                                                                                                                                                |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Biz Scaling Model**      | the initial conjecture about how offer, niche, proof, route to market, delivery and feedback may form a control                                           |
-| **Surface signals**        | trends, queries, objections, metrics, comments, failures, purchases, support messages and competitor frames                                            |
-| **Business variables**     | offer, segment, claim, proof object, activation step, friction point, risk, constraint, policy, outcome, channel, cost, dependency and operating state |
-| **External niche context** | audience, partner, platform, regulatory, cultural, geographic, market or category context                                                              |
-| **State–niche fit**        | the quality of coupling between internal readiness and external opportunity/constraint structure                                                       |
-| **Predictive maps**        | how variables relate across customer journeys, domains, platforms, regions and time                                                                    |
-| **Action Intents**         | proposed interventions routed through Auto, Draft, Escalate or Blocked gates                                                                           |
-| **Clarify Intents**        | information-gathering moves used when the niche is too opaque for direct action                                                                        |
-| **Fast Gc**                | banked scripts, playbooks, workflows, recovery procedures, templates and operating routines                                                            |
-| **Slow Gc**                | cross-run invariants that reshape future search, judgement, positioning, policy and decision-making                                                    |
+| Object | Meaning |
+|---|---|
+| **Biz Scaling Model** | the initial conjecture about how offer, niche, proof, route to market, delivery and feedback may form a control loop |
+| **Surface signals** | trends, queries, objections, metrics, comments, failures, purchases, support messages and competitor frames |
+| **Semantic events** | surface signals interpreted through the business ontology |
+| **Value signals** | why an event matters for viability, trust, proof, revenue, learning, workload, risk or strategy |
+| **Business variables** | offer, segment, claim, proof object, activation step, friction point, risk, constraint, policy, outcome, channel, cost, dependency and operating state |
+| **External niche context** | audience, partner, platform, regulatory, cultural, geographic, market or category context |
+| **State–niche fit** | the quality of coupling between internal readiness and external opportunity/constraint structure |
+| **Predictive maps** | how variables relate across customer journeys, domains, platforms, regions and time |
+| **Hypotheses** | candidate explanations of what is happening and what action or clarification may teach |
+| **Action Intents** | proposed interventions routed through Auto, Draft, Escalate or Blocked gates |
+| **Clarify Intents** | information-gathering moves used when the niche is too opaque for direct action |
+| **Fast Gc** | banked scripts, playbooks, workflows, recovery procedures, templates and operating routines |
+| **Slow Gc** | cross-run invariants that reshape future search, judgement, positioning, policy and decision-making |
 
 The updated G Kernel loop is:
 
 ```text
 business scaling model hypothesis
 → surface signal
-→ typed event
+→ semantic event
+→ value interpretation
 → variable abstraction
 → business state map
 → external niche map
 → state–niche fit estimate
 → entropy–MI diagnosis
+→ hypothesis generation
 → Action Intent or Clarify Intent
 → outcome observation
 → wrapper / segment / channel / niche-context swap
@@ -362,12 +524,13 @@ The kernel does not begin from a neutral checklist. It begins from the current b
 
 A surface signal is not yet knowledge.
 
-It becomes useful only when the kernel maps it to a typed event, identifies the relevant variables, estimates whether the external niche is legible, and tests whether those variables predict meaningful outcomes.
+It becomes useful only when the kernel maps it to a semantic event, identifies the relevant variables, estimates why it matters, generates a hypothesis, checks whether the external niche is legible, and tests whether those variables predict meaningful outcomes.
 
 The business equivalent of the Trident-G sequence is:
 
 ```text
 surface cue
+→ semantic event
 → variable abstraction
 → predictive map
 → boundary test
@@ -395,9 +558,142 @@ A pattern that recurs across scripts, domains, businesses or nodes is a slow-Gc 
 
 ---
 
-## 6. State–niche fit
+## 7. Kernel intelligence
+
+Kastel’s kernel is not only a workflow router.
+
+It is a learning loop for operational intelligence.
+
+Each loop should help the enterprise model:
+
+```text
+semantics: what does this signal mean?
+value: why does it matter?
+inference: what follows if this is true?
+hypothesis: what else could explain it?
+probe: what is the smallest safe test?
+feedback: what did the niche return?
+learning: should this pattern be ignored, revised or banked?
+```
+
+The kernel therefore converts live operations into structured learning:
+
+```text
+signal
+→ semantic event
+→ variable
+→ value interpretation
+→ hypothesis
+→ Action or Clarify Intent
+→ gated probe
+→ observed outcome
+→ source-of-truth update
+→ delayed review
+→ reusable operating script
+```
+
+Kastel is designed to turn fluid problem-solving into crystallised operating intelligence.
+
+In Trident-G terms:
+
+```text
+Gf-like search:
+ambiguous signal → variable abstraction → hypothesis generation → probe/action
+
+Gc-like consolidation:
+repeated validated pattern → boundary conditions → script banking → future reuse
+```
+
+A useful action is not banked merely because it worked once.
+
+It becomes a reusable script only when:
+
+```text
+its boundary conditions are clear
+its source of truth is known
+its risks are bounded
+its niche context is recorded
+its semantic definition is stable
+its value contribution is understood
+it remains useful across changed contexts
+```
+
+This makes Kastel a system for governed long-term learning, not short-term automation.
+
+---
+
+## 8. Cognitive skill development
+
+Kastel Stack is not only an automation scaffold.
+
+It is designed to improve the operator’s meta-cognitive, inductive and epistemic skills over time.
+
+Every Kastel loop should make the structure of judgement more visible:
+
+```text
+signal → evidence
+evidence → variable
+variable → hypothesis
+hypothesis → discriminating probe
+probe → Action or Clarify Intent
+outcome → feedback
+feedback → model update
+repeated success → banked script
+```
+
+The aim is not to replace the operator’s judgement with autonomous agents.
+
+The aim is to make judgement more:
+
+```text
+explicit
+testable
+auditable
+reusable
+transferable across contexts
+```
+
+Kastel agents should therefore ask questions such as:
+
+```text
+What is the signal?
+What variable is changing?
+Why does this matter?
+What else could explain this?
+What would make this wrong?
+What is the smallest safe probe?
+What feedback would count as evidence?
+Does this pattern survive another context?
+Should this become a reusable operating script?
+```
+
+In this sense, Kastel treats business scaling as a live problem-space training environment.
+
+The enterprise becomes a real-world niche in which the operator practises:
+
+```text
+evidence sampling
+variable abstraction
+semantic clarification
+hypothesis testing
+boundary checking
+delayed review
+pattern banking
+```
+
+This is the operator-level learning function of Kastel.
+
+The business learns through scripts.
+
+The operator learns through better judgement.
+
+---
+
+## 9. State–niche fit
 
 State–niche fit is the core Kastel diagnostic.
+
+It is the operational niche-fit side of Kastel's allostatic doctrine: the business should only act when its internal state and the external context are jointly fit enough for action to teach.
 
 A business is **in state–niche fit** when:
 
@@ -413,26 +709,26 @@ the human operator has enough judgement capacity to supervise the loop
 
 State–niche fit combines four checks:
 
-| Check                         | Question                                                                                      |
-| ----------------------------- | --------------------------------------------------------------------------------------------- |
-| **Internal readiness**        | Is the business operationally capable of acting without overload, chaos or unsafe automation? |
-| **External niche legibility** | Is the audience, partner, market, platform, regulatory or cultural context clear enough?      |
-| **Feedback quality**          | Will the action produce interpretable evidence?                                               |
-| **Human judgement capacity**  | Can the operator review, approve, interpret and learn from the action?                        |
+| Check | Question |
+|---|---|
+| **Internal readiness** | Is the business operationally capable of acting without overload, chaos or unsafe automation? |
+| **External niche legibility** | Is the audience, partner, market, platform, regulatory or cultural context clear enough? |
+| **Feedback quality** | Will the action produce interpretable evidence? |
+| **Human judgement capacity** | Can the operator review, approve, interpret and learn from the action? |
 
 The kernel should avoid direct action when any of these are weak.
 
 ### State–niche regimes
 
-| Regime                        | Meaning                                                                  | Kernel response                                           |
-| ----------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------- |
-| **Flat**                      | stale automation, low update, no meaningful learning                     | introduce a probe or refresh the map                      |
-| **Locked-in**                 | premature exploitation, brittle strategy, overcommitment to one frame    | inject exploration or test a new wrapper                  |
-| **Spun-out**                  | too many experiments, noisy signals, no convergence                      | tighten constraint and reduce active missions             |
-| **Overloaded**                | too many Action Intents, review backlog, support burden, founder fatigue | reduce WIP and simplify scope                             |
-| **Externally opaque**         | business may be ready, but niche conditions are unclear                  | issue a Clarify Intent                                    |
-| **Externally rigid**          | niche is too stale or predictable to produce learning                    | test a new context, segment or wrapper                    |
-| **In-band / state–niche fit** | internal readiness and external legibility are jointly good enough       | run the loop, observe, validate and bank only if portable |
+| Regime | Meaning | Kernel response |
+|---|---|---|
+| **Flat** | stale automation, low update, no meaningful learning | introduce a probe or refresh the map |
+| **Locked-in** | premature exploitation, brittle strategy, overcommitment to one frame | inject exploration or test a new wrapper |
+| **Spun-out** | too many experiments, noisy signals, no convergence | tighten constraint and reduce active missions |
+| **Overloaded** | too many Action Intents, review backlog, support burden, founder fatigue | reduce WIP and simplify scope |
+| **Externally opaque** | business may be ready, but niche conditions are unclear | issue a Clarify Intent |
+| **Externally rigid** | niche is too stale or predictable to produce learning | test a new context, segment or wrapper |
+| **In-band / state–niche fit** | internal readiness and external legibility are jointly good enough | run the loop, observe, validate and bank only if portable |
 
 The kernel’s job is not to maximise activity.
 
@@ -440,7 +736,7 @@ It is to keep the business in a regime where action can teach.
 
 ---
 
-## 7. Action Intent and Clarify Intent
+## 10. Action Intent and Clarify Intent
 
 Every proposed external move becomes either an **Action Intent** or a **Clarify Intent**.
 
@@ -498,7 +794,8 @@ The rule is:
 If the action would not teach us anything interpretable,
 clarify before acting.
 ```
-### 7.1 Weekly Priority Engine
+
+### 10.1 Weekly Priority Engine
 
 Kastel should not generate an unlimited task list.
 
@@ -525,6 +822,7 @@ workload estimate
 rollback or stop rule
 delayed review date
 ```
+
 The weekly priority engine should rank candidate work by:
 
 ```text
@@ -552,15 +850,19 @@ Which prior actions need delayed review?
 Which scripts should be advanced, revised, retired or left unbanked?
 Is operator workload still bounded?
 ```
+
 A weekly task is therefore not just a to-do item.
 
 It is a gated learning move inside the Kastel loop.
 
 ---
 
-## 8. Non-linear scaling thesis
+## 11. Non-linear scaling thesis
 
-Non-linear scaling is always evaluated relative to a business scaling model hypothesis. Kastel does not look for growth in the abstract. It asks whether the current hypothesis about offer, niche, proof, channel, delivery and feedback is beginning to behave like a controlled branching system.
+Non-linear scaling is always evaluated relative to a business scaling model hypothesis.
+
+Kastel does not look for growth in the abstract. It asks whether the current hypothesis about offer, niche, proof, channel, delivery and feedback is beginning to behave like a controlled branching system.
+
 Kastel Stack treats scaling as **capability-building**, not as a pile of disconnected growth hacks.
 
 The strongest form of scaling is non-linear.
@@ -622,7 +924,7 @@ testimonial structure
 
 If one framing reduces uncertainty across many business layers, it has high scaling potential.
 
-### 8.1 Linear scaling and operating-stack exploitation
+### 11.1 Linear scaling and operating-stack exploitation
 
 Not all valuable scaling is non-linear.
 
@@ -641,6 +943,7 @@ preparing partner documents
 logging customer feedback
 publishing routine proof updates
 ```
+
 These activities may not create a branching cascade by themselves, but they are still essential. They reduce drag, preserve trust, maintain source-of-truth quality, improve response time, protect operator capacity and keep the business legible enough for higher-order learning.
 
 Kastel Stack should therefore distinguish:
@@ -654,6 +957,7 @@ non-linear scaling loop
 =
 a strategic pattern where one action creates multiple valuable downstream opportunities
 ```
+
 The linear operating stack creates the stable base from which non-linear opportunities can be detected and exploited.
 
 In Trident-G terms:
@@ -662,12 +966,15 @@ In Trident-G terms:
 linear operating routines = fast business Gc
 portable cross-context routines = slow business Gc candidates
 controlled B > 1 loops = spiral advance / non-linear scaling candidates
-
-The goal is not to ignore linear work. The goal is to automate and stabilise it enough that human judgement can focus on bottlenecks, uncertainty, proof, partnerships and breakaway strategic signals.
 ```
+
+The goal is not to ignore linear work.
+
+The goal is to automate and stabilise it enough that human judgement can focus on bottlenecks, uncertainty, proof, partnerships and breakaway strategic signals.
+
 ---
 
-## 9. Business branching ratio
+## 12. Business branching ratio
 
 The simplest model of non-linear scaling is:
 
@@ -675,7 +982,7 @@ The simplest model of non-linear scaling is:
 one action → more than one valuable downstream opportunity
 ```
 
-The key diagnostic variable is the **business branching ratio**:
+The key diagnostic variable is the **business branching ratio**.
 
 B is a business-operational branching diagnostic, not a direct claim of neural or physical criticality.
 
@@ -716,9 +1023,9 @@ controlled superlinear scaling inside a bounded strategic corridor
 
 ---
 
-## 10. Where non-linear scaling can occur
+## 13. Where non-linear scaling can occur
 
-### 10.1 Audience and content cascades
+### 13.1 Audience and content cascades
 
 ```text
 article
@@ -743,7 +1050,7 @@ This is not just content working.
 
 It is the content layer becoming a self-propagating map in the audience’s world.
 
-### 10.2 Proof and outcomes flywheel
+### 13.2 Proof and outcomes flywheel
 
 ```text
 training
@@ -769,7 +1076,7 @@ For IQ Mindware, the proof mechanism is not an accessory.
 
 It is part of the strategic invariant.
 
-### 10.3 Referral and identity loops
+### 13.3 Referral and identity loops
 
 ```text
 customer
@@ -789,7 +1096,7 @@ people asking for bundles or group access
 customers explaining the product better than the ads do
 ```
 
-### 10.4 Partnership cascades
+### 13.4 Partnership cascades
 
 ```text
 clinic / school / coach / institute
@@ -812,7 +1119,7 @@ One partner is not just a customer.
 
 A good partner is a bridge into a module of the niche.
 
-### 10.5 Product activation loops
+### 13.5 Product activation loops
 
 ```text
 better onboarding
@@ -833,7 +1140,7 @@ support questions becoming more focused
 users naturally progressing into the next product or module
 ```
 
-### 10.6 Operational automation loops
+### 13.6 Operational automation loops
 
 ```text
 manual campaign
@@ -858,7 +1165,7 @@ This is where Kastel Stack creates fast business Gc.
 
 If those routines keep improving across contexts, they become slow schematic Gc at the business level.
 
-### 10.7 Market-category reframing
+### 13.7 Market-category reframing
 
 ```text
 brain training app
@@ -896,7 +1203,7 @@ Is this the serious version of the thing I already want?
 
 ---
 
-## 11. Exploration, exploitation and scaling
+## 14. Exploration, exploitation and scaling
 
 Exploration discovers possible games.
 
@@ -952,7 +1259,7 @@ Consolidation banks it as operating intelligence.
 
 ---
 
-## 12. Danger zone: supercritical business growth
+## 15. Danger zone: supercritical business growth
 
 Not all exponential growth is good.
 
@@ -1012,7 +1319,7 @@ automation increases but judgement capacity falls
 
 ---
 
-## 13. Ψ-band business regimes
+## 16. Ψ-band business regimes
 
 The G Kernel asks whether a business loop is **in-band**.
 
@@ -1028,26 +1335,27 @@ bounded enough to preserve human judgement
 
 The Ψ Governor monitors internal state, external niche condition and branching dynamics.
 
-| Regime                    | Business pattern                                      | Kernel response                                    |
-| ------------------------- | ----------------------------------------------------- | -------------------------------------------------- |
-| **Flat**                  | routine execution without learning                    | introduce a probe or refresh the mission           |
-| **Locked-in**             | brittle exploitation of one frame                     | inject exploration or wrapper variation            |
-| **Spun-out**              | too many options, no convergence                      | narrow to one mission and require evidence         |
-| **Overloaded**            | review backlog, support debt, founder fatigue         | reduce WIP and pause non-essential probes          |
-| **Externally opaque**     | niche unclear, feedback likely noisy                  | issue Clarify Intent                               |
-| **Externally rigid**      | niche too predictable to teach                        | test a new segment, wrapper or channel             |
-| **Cascade-forming**       | B > 1 with stable quality and feedback                | exploit carefully and protect constraints          |
-| **Chaotic supercritical** | B ≫ 1 with overload or quality collapse               | constrain, pause, route to governance              |
-| **In-band**               | state–niche fit, useful uncertainty, safe action path | run loop, observe, validate, bank only if portable |
+| Regime | Business pattern | Kernel response |
+|---|---|---|
+| **Flat** | routine execution without learning | introduce a probe or refresh the mission |
+| **Locked-in** | brittle exploitation of one frame | inject exploration or wrapper variation |
+| **Spun-out** | too many options, no convergence | narrow to one mission and require evidence |
+| **Overloaded** | review backlog, support debt, founder fatigue | reduce WIP and pause non-essential probes |
+| **Externally opaque** | niche unclear, feedback likely noisy | issue Clarify Intent |
+| **Externally rigid** | niche too predictable to teach | test a new segment, wrapper or channel |
+| **Cascade-forming** | B > 1 with stable quality and feedback | exploit carefully and protect constraints |
+| **Chaotic supercritical** | B ≫ 1 with overload or quality collapse | constrain, pause, route to governance |
+| **In-band** | state–niche fit, useful uncertainty, safe action path | run loop, observe, validate, bank only if portable |
 
 ---
 
-## 14. Entropy–mutual information control rules
+## 17. Entropy–mutual information control rules
 
 Kastel uses the Trident-G explore–exploit principle as a practical diagnostic.
 
 ```text
 entropy = search breadth, option variety, hypothesis diversity, wrapper variation
+
 mutual information = evidence constraint, relevance to outcome, predictive connection between action and result
 ```
 
@@ -1072,6 +1380,12 @@ If mutual information is narrow but high:
 
 If mutual information is low:
   improve measurement, source-of-truth quality, segmentation, outcome mapping or event typing
+
+If semantic clarity is low:
+  clarify definitions before allowing model-owned recommendations
+
+If value interpretation is unclear:
+  ask why the event matters before routing an action
 
 If external niche legibility is low:
   issue Clarify Intent before Action Intent
@@ -1100,7 +1414,7 @@ enough operator capacity to preserve judgement
 
 ---
 
-## 15. Script banking rules
+## 18. Script banking rules
 
 Kastel banks scripts cautiously.
 
@@ -1109,14 +1423,15 @@ A Φ-Script is bankable only when:
 1. it solved a defined mission or reduced a defined bottleneck
 2. the relevant source-of-truth outcome was observed
 3. the semantic definition of the measured outcome is clear
-4. the external niche context was recorded
-5. the state–niche fit condition was adequate or explicitly bounded
-6. the boundary conditions were recorded
-7. the failure modes were noted
-8. the action was safe, reversible or properly gated
-9. at least one wrapper, segment, channel, timing or niche-context variation was tested where feasible
-10. the result remained useful after delayed review
-11. the script did not create unmanageable workload, compliance, security, trust, delivery or dependency risk
+4. the value contribution of the outcome is understood
+5. the external niche context was recorded
+6. the state–niche fit condition was adequate or explicitly bounded
+7. the boundary conditions were recorded
+8. the failure modes were noted
+9. the action was safe, reversible or properly gated
+10. at least one wrapper, segment, channel, timing or niche-context variation was tested where feasible
+11. the result remained useful after delayed review
+12. the script did not create unmanageable workload, compliance, security, trust, delivery or dependency risk
 
 The short rule is:
 
@@ -1127,13 +1442,13 @@ Bank a portable operating pattern.
 
 A script can be tagged as:
 
-| Status      | Meaning                                                                         |
-| ----------- | ------------------------------------------------------------------------------- |
-| `observed`  | worked once, not yet portable                                                   |
-| `candidate` | worked and has plausible reuse value                                            |
+| Status | Meaning |
+|---|---|
+| `observed` | worked once, not yet portable |
+| `candidate` | worked and has plausible reuse value |
 | `validated` | survived at least one boundary, wrapper, segment, channel or niche-context test |
-| `banked`    | safe, documented, reusable and reviewed                                         |
-| `retired`   | no longer valid, unsafe, obsolete, misleading or superseded                     |
+| `banked` | safe, documented, reusable and reviewed |
+| `retired` | no longer valid, unsafe, obsolete, misleading or superseded |
 
 Every banked script should include:
 
@@ -1146,6 +1461,8 @@ external niche context
 state–niche fit estimate
 branching-ratio signal where relevant
 evidence
+semantic definition
+value contribution
 boundary conditions
 failure modes
 portability tests
@@ -1156,7 +1473,7 @@ gate status
 
 ---
 
-## 16. Surface intelligence and trend wrappers
+## 19. Surface intelligence and trend wrappers
 
 Kastel Stack includes a **surface intelligence** layer.
 
@@ -1196,11 +1513,13 @@ Use evidence as the constraint, not as dead academic copy.
 Use state–niche fit to decide whether a wrapper deserves action.
 ```
 
-### 16.1 HAGI and extended-cognition content wrappers
+### 19.1 HAGI and extended-cognition content wrappers
 
 HAGI / extended-cognition content is treated as a wrapper family, not as the source of truth.
 
 Candidate wrappers include:
+
+```text
 AI-proof skills
 extended cognition
 cognitive resilience
@@ -1210,8 +1529,11 @@ attention control
 decision quality
 adaptive intelligence
 human-AI judgement
+```
 
 Each wrapper must be tested against:
+
+```text
 activation
 retention
 proof quality
@@ -1219,9 +1541,11 @@ claim safety
 audience fit
 partner fit
 state–niche coupling
+```
+
 ---
 
-## 17. Who Kastel Stack is for
+## 20. Who Kastel Stack is for
 
 Kastel Stack is designed first for **independent, digitally legible enterprises and small teams**.
 
@@ -1277,7 +1601,7 @@ Kastel Stack is **not aimed at large enterprise deployments**, highly regulated 
 
 ---
 
-## 18. Core philosophy
+## 21. Core philosophy
 
 Kastel Stack is based on **polycentric platform sovereignty**.
 
@@ -1312,7 +1636,7 @@ supervised enough to preserve judgement
 
 ---
 
-## 19. Polycentric management model
+## 22. Polycentric management model
 
 Kastel Stack does not assume that scaling should be managed through a centralised command hierarchy.
 
@@ -1357,7 +1681,7 @@ It is a system for helping independent operators and small teams sense, decide, 
 
 ---
 
-## 20. Shark tooth sovereignty
+## 23. Shark tooth sovereignty
 
 Kastel Stack uses a **shark tooth sovereignty** model: every critical dependency should have a replacement path.
 
@@ -1389,7 +1713,7 @@ It is the increasing capacity to operate, migrate, recover, interoperate, replac
 
 ---
 
-## 21. The G Kernel
+## 24. The G Kernel
 
 The G Kernel is the intelligent control layer inside Kastel Stack.
 
@@ -1399,12 +1723,16 @@ The kernel asks:
 
 ```text
 What is happening?
+What does this signal mean?
+Why does it matter?
 Which variables matter?
 What external niche context are we acting inside?
 Is the business internally ready?
 Is the niche legible enough?
 Is the loop flat, locked-in, spun-out, overloaded, externally opaque, cascade-forming or in-band?
 Should we explore, exploit, clarify, pause, repair or escalate?
+What hypothesis explains this?
+What else could explain it?
 What action or clarification should be proposed next?
 What would count as evidence that it worked?
 Can the action run automatically, or does a human need to decide?
@@ -1420,9 +1748,12 @@ State / Salience / Ψ Governor
 → External Niche Map
 → State–Niche Fit Estimate
 → Lens Select
+→ Semantic Event Map
+→ Value Map
 → Variable Map
 → Predictive Model
 → Explore / Constrain
+→ Hypothesise
 → Clarify / Probe / Test
 → Action Intent
 → Execute / Observe / Update
@@ -1441,6 +1772,7 @@ feedback quality
 business branching ratio
 α-stability proxy
 semantic clarity and data lineage
+value interpretation
 portability across wrappers, segments, channels and regions
 operator workload and review capacity
 boundary checks and failure modes
@@ -1458,7 +1790,7 @@ It is a supervised adaptive operating loop.
 
 ---
 
-## 22. Human supervision first
+## 25. Human supervision first
 
 Kastel Stack is designed around **bounded autonomy**.
 
@@ -1466,12 +1798,12 @@ Every proposed action becomes an **Action Intent** unless the correct move is fi
 
 Each Action Intent is routed through one of four gates:
 
-| Gate       | Meaning                                                                                                                             |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| `Auto`     | low-risk, reversible, routine, evidence-backed action                                                                               |
-| `Draft`    | useful action requiring review before external use                                                                                  |
+| Gate | Meaning |
+|---|---|
+| `Auto` | low-risk, reversible, routine, evidence-backed action |
+| `Draft` | useful action requiring review before external use |
 | `Escalate` | judgement-sensitive action involving claims, money, privacy, complaints, partnerships, strategy, security, compliance or reputation |
-| `Blocked`  | action not permitted under current policy                                                                                           |
+| `Blocked` | action not permitted under current policy |
 
 Clarify Intents are routed separately as information-gathering moves.
 
@@ -1482,6 +1814,9 @@ what is known
 what is uncertain
 what niche context is being assumed
 what variables the kernel thinks matter
+what the signal means
+why the signal matters
+what hypotheses are available
 what options exist
 what risks are present
 whether action or clarification is recommended
@@ -1496,7 +1831,7 @@ The system should make human judgement easier, not bypass it.
 
 ---
 
-## 23. Role of AI
+## 26. Role of AI
 
 AI in Kastel Stack is used as an interpretation, drafting, modelling and pattern-recognition layer inside a governed G Kernel.
 
@@ -1505,6 +1840,8 @@ It helps:
 ```text
 classify signals
 map signals to the business ontology
+interpret semantic events
+estimate value relevance
 generate hypotheses
 detect surface trends
 summarise evidence
@@ -1531,22 +1868,22 @@ Humans retain authority over claims, money, strategy, privacy, partnerships, sec
 
 ---
 
-## 24. Business domains
+## 27. Business domains
 
 Kastel Stack operates over business domains rather than isolated apps.
 
 Initial domains:
 
-| Domain                                                     | Purpose                                                                                                                                                         |
-| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **D0 Measurement, Semantics & Learning Spine**             | event schema, data lineage, source-of-truth mapping, north-star metric, semantic definitions, experiment records, outcome observations, script-banking evidence |
-| **D1 Audience, Demand & Positioning**                      | SEO, content, discovery, segmentation, lead signals, surface intelligence, positioning, message clarity                                                         |
-| **D2 Commerce, Pricing & Entitlements**                    | offers, pricing, payments, purchases, subscriptions, access, fulfilment, refunds, unit economics                                                                |
-| **D3 Delivery, CRM & Customer Feedback**                   | onboarding, activation, lifecycle messaging, support, customer feedback, UX friction                                                                            |
-| **D4 Outcomes, Evidence & Experiments**                    | progress, proof, claims, experiments, evidence assets, outcome-linked product learning                                                                          |
-| **D5 Partnerships, Authority & Ecosystem Routes**          | affiliates, collaborations, professional outreach, B2B pilots, authority amplification, referral routes, partner-risk checks                                    |
-| **D6 Reliability, Product Quality, Security & Governance** | workflow health, app bugs, failed automations, permissions, backups, privacy, cybersecurity, policy, release quality                                            |
-| **D7 Polycentric Governance & Capability**                 | purpose, strategy, roles, domain ownership, decision rights, workload, capability, learning, culture, dependency management, shared mental models               |
+| Domain | Purpose |
+|---|---|
+| **D0 Measurement, Semantics & Learning Spine** | event schema, data lineage, source-of-truth mapping, north-star metric, semantic definitions, experiment records, outcome observations, script-banking evidence |
+| **D1 Audience, Demand & Positioning** | SEO, content, discovery, segmentation, lead signals, surface intelligence, positioning, message clarity |
+| **D2 Commerce, Pricing & Entitlements** | offers, pricing, payments, purchases, subscriptions, access, fulfilment, refunds, unit economics |
+| **D3 Delivery, CRM & Customer Feedback** | onboarding, activation, lifecycle messaging, support, customer feedback, UX friction |
+| **D4 Outcomes, Evidence & Experiments** | progress, proof, claims, experiments, evidence assets, outcome-linked product learning |
+| **D5 Partnerships, Authority & Ecosystem Routes** | affiliates, collaborations, professional outreach, B2B pilots, authority amplification, referral routes, partner-risk checks |
+| **D6 Reliability, Product Quality, Security & Governance** | workflow health, app bugs, failed automations, permissions, backups, privacy, cybersecurity, policy, release quality |
+| **D7 Polycentric Governance & Capability** | purpose, strategy, roles, domain ownership, decision rights, workload, capability, learning, culture, dependency management, shared mental models |
 
 The domain logic is:
 
@@ -1590,8 +1927,9 @@ These should amplify a working core loop, not substitute for one.
 
 ---
 
-### 24.1 Evidence and proof publishing ladder
+### 27.1 Evidence and proof publishing ladder
 
+```text
 telemetry note
 internal validation note
 partner pilot report
@@ -1599,39 +1937,40 @@ public proof-page update
 white paper
 preprint
 peer-reviewed study
+```
 
 Each level increases public claim strength only if the evidence, consent, context, limitations and claims boundary support it.
 
 ---
 
-## 25. Generic operating priorities and hypothesis-specific priorities
+## 28. Generic operating priorities and hypothesis-specific priorities
 
 The table below defines the generic operating spine of a Kastel node. It is not always the live strategic priority order for a specific venture.
 
 Every business also has a hypothesis-specific priority order determined by its business scaling model hypothesis. The generic spine keeps the business measurable, safe and governable. The hypothesis-specific order decides what must be tested first.
 
-| Priority | Scaling factor                                      | Kastel interpretation                                                                                      | MVQ status             |
-| -------: | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------- |
-|    **1** | Measurement, semantic architecture and data lineage | define events, leads, activation, retained users, proof fragments, script candidates and banked invariants | **Must-have**          |
-|    **2** | State–niche fit                                     | diagnose internal readiness, external niche legibility and feedback quality before action                  | **Must-have**          |
-|    **3** | Polycentric governance and operator capacity        | clarify purpose, domains, decision rights, workload, WIP limits and review cadence                         | **Must-have**          |
-|    **4** | Security, privacy and compliance-as-trust           | treat cybersecurity, data protection, consent, claims boundaries and auditability as trust assets          | **Must-have**          |
-|    **5** | Positioning, offer architecture and unit economics  | know what is sold, to whom, why it is credible, what it costs to acquire and serve                         | **Must-have**          |
-|    **6** | Onboarding and activation                           | get users to first meaningful value quickly                                                                | **Must-have**          |
-|    **7** | Lifecycle CRM and retention                         | nurture, rescue, segment and retain users                                                                  | **Must-have**          |
-|    **8** | Product feedback and delivery quality               | link bugs, UX friction and feature hypotheses to activation, retention and outcomes                        | **Must-have**          |
-|    **9** | Evidence and proof publishing                       | convert usage, telemetry and outcome snapshots into claim-safe proof assets                                | **Early**              |
-|   **10** | Organic discovery and landing-page activation       | build demand through search intent, clear pages and proof-led content                                      | **Early**              |
-|   **11** | Non-linear scaling diagnostics                      | estimate content, proof, referral, partner, activation and automation branching ratios                     | **Early**              |
-|   **12** | Experimentation and hypothesis testing              | run controlled probes rather than random tactics                                                           | **Early**              |
-|   **13** | Surface intelligence and trend wrappers             | detect market language but test against activation, retention, evidence and claim safety                   | **Early but gated**    |
-|   **14** | Authority amplification and B2B trust routes        | use publishing, expert networks, pilots and institutional bridges to reduce trust barriers                 | **After proof spine**  |
-|   **15** | Partnership and B2B probe lane                      | treat partnerships as fit, trust, risk, pilot, outcome, bank-or-retire hypotheses                          | **After core loop**    |
-|   **16** | Community and referral loops                        | build identity and referrals after onboarding, proof and moderation capacity exist                         | **Later**              |
-|   **17** | Geographic and segment overlays                     | apply local wrappers to a stable core protocol                                                             | **Later**              |
-|   **18** | Capital allocation and funding strategy             | preserve runway, avoid capture and invest only where unit economics and capacity support scale             | **Governance overlay** |
+| Priority | Scaling factor | Kastel interpretation | MVQ status |
+|---:|---|---|---|
+| **1** | Measurement, semantic architecture and data lineage | define events, leads, activation, retained users, proof fragments, script candidates and banked invariants | **Must-have** |
+| **2** | State–niche fit | diagnose internal readiness, external niche legibility and feedback quality before action | **Must-have** |
+| **3** | Polycentric governance and operator capacity | clarify purpose, domains, decision rights, workload, WIP limits and review cadence | **Must-have** |
+| **4** | Security, privacy and compliance-as-trust | treat cybersecurity, data protection, consent, claims boundaries and auditability as trust assets | **Must-have** |
+| **5** | Positioning, offer architecture and unit economics | know what is sold, to whom, why it is credible, what it costs to acquire and serve | **Must-have** |
+| **6** | Onboarding and activation | get users to first meaningful value quickly | **Must-have** |
+| **7** | Lifecycle CRM and retention | nurture, rescue, segment and retain users | **Must-have** |
+| **8** | Product feedback and delivery quality | link bugs, UX friction and feature hypotheses to activation, retention and outcomes | **Must-have** |
+| **9** | Evidence and proof publishing | convert usage, telemetry and outcome snapshots into claim-safe proof assets | **Early** |
+| **10** | Organic discovery and landing-page activation | build demand through search intent, clear pages and proof-led content | **Early** |
+| **11** | Non-linear scaling diagnostics | estimate content, proof, referral, partner, activation and automation branching ratios | **Early** |
+| **12** | Experimentation and hypothesis testing | run controlled probes rather than random tactics | **Early** |
+| **13** | Surface intelligence and trend wrappers | detect market language but test against activation, retention, evidence and claim safety | **Early but gated** |
+| **14** | Authority amplification and B2B trust routes | use publishing, expert networks, pilots and institutional bridges to reduce trust barriers | **After proof spine** |
+| **15** | Partnership and B2B probe lane | treat partnerships as fit, trust, risk, pilot, outcome, bank-or-retire hypotheses | **After core loop** |
+| **16** | Community and referral loops | build identity and referrals after onboarding, proof and moderation capacity exist | **Later** |
+| **17** | Geographic and segment overlays | apply local wrappers to a stable core protocol | **Later** |
+| **18** | Capital allocation and funding strategy | preserve runway, avoid capture and invest only where unit economics and capacity support scale | **Governance overlay** |
 
-### 25.2 Hypothesis-specific priority order
+### 28.1 Hypothesis-specific priority order
 
 For each business, Kastel generates a hypothesis-specific priority order based on:
 
@@ -1646,7 +1985,7 @@ expected branching mechanism
 risk and governance constraints
 ```
 
-### 25.3 Example: Zone Coach B2B scaling hypothesis
+### 28.2 Example: Zone Coach B2B scaling hypothesis
 
 For Zone Coach, the initial business scaling model hypothesis may be:
 
@@ -1657,24 +1996,25 @@ validated cognitive-state readiness app
 + partner trust cascade
 = possible controlled scaling loop
 ```
+
 ---
 
-## 26. Core components
+## 29. Core components
 
 Kastel Stack is organised around reusable layers:
 
-| Component                        | Role                                                                                                                   |
-| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Kastel Core**                  | G Kernel, Ψ Governor, state–niche fit estimator, G-Loop state machine, diagnostics, Action/Clarify Intent router       |
-| **Measurement & Semantic Spine** | canonical events, metrics, terms, data lineage, north-star metrics, experiment records, outcome observations           |
-| **External Niche Map**           | audience, partner, platform, regulatory, geographic, cultural and category contexts                                    |
-| **Business Ontology Pack**       | objects, relations, variables, metrics, claims, trends, risks, operating expectations and proof objects                |
-| **Connector Pack**               | Stripe, Brevo, Gmail, GitHub, Supabase, Cloudflare, Google Search Console, accounting systems and other tools          |
-| **Policy Pack**                  | defines Auto, Draft, Escalate and Blocked across claims, money, privacy, security, compliance and reputation           |
+| Component | Role |
+|---|---|
+| **Kastel Core** | G Kernel, Ψ Governor, state–niche fit estimator, G-Loop state machine, diagnostics, Action/Clarify Intent router |
+| **Measurement & Semantic Spine** | canonical events, metrics, terms, data lineage, north-star metrics, experiment records, outcome observations |
+| **External Niche Map** | audience, partner, platform, regulatory, geographic, cultural and category contexts |
+| **Business Ontology Pack** | objects, relations, variables, metrics, claims, trends, risks, operating expectations and proof objects |
+| **Connector Pack** | Stripe, Brevo, Gmail, GitHub, Supabase, Cloudflare, Google Search Console, accounting systems and other tools |
+| **Policy Pack** | defines Auto, Draft, Escalate and Blocked across claims, money, privacy, security, compliance and reputation |
 | **Governance & Capability Pack** | purpose, domains, roles, decision rights, workloads, dependencies, learning needs, values and collaboration agreements |
-| **Script Library**               | banked workflows, tests, playbooks, recovery actions and reusable Φ-Scripts                                            |
-| **Surface Intelligence Lane**    | detects search, social, trend, objection, competitor and market-language wrappers                                      |
-| **Scaling Diagnostics Layer**    | tracks branching-ratio signals across content, proof, referral, partner, activation and automation loops               |
+| **Script Library** | banked workflows, tests, playbooks, recovery actions and reusable Φ-Scripts |
+| **Surface Intelligence Lane** | detects search, social, trend, objection, competitor and market-language wrappers |
+| **Scaling Diagnostics Layer** | tracks branching-ratio signals across content, proof, referral, partner, activation and automation loops |
 
 The kernel should be universal.
 
@@ -1682,7 +2022,7 @@ The ontology, connectors, policies, scripts, surface wrappers, semantic definiti
 
 ---
 
-## 27. Source-of-truth, semantic architecture and data lineage
+## 30. Source-of-truth, semantic architecture and data lineage
 
 Kastel Stack depends on a strict source-of-truth rule.
 
@@ -1734,6 +2074,8 @@ banked script
 external niche context
 state–niche fit
 branching-ratio signal
+semantic event
+value signal
 ```
 
 The semantic layer should record:
@@ -1753,6 +2095,7 @@ The rule is:
 
 ```text
 No semantic clarity, no automation.
+No value interpretation, no strategic routing.
 No source-of-truth path, no banking.
 No lineage, no model-owned recommendation.
 No niche context, no strategic invariant claim.
@@ -1760,7 +2103,7 @@ No niche context, no strategic invariant claim.
 
 ---
 
-## 28. Minimal schema
+## 31. Minimal schema
 
 Schema families should represent:
 
@@ -1963,6 +2306,84 @@ a delayed review path
 
 ---
 
+### semantic_event
+
+```text
+semantic_event_id
+source_event_id
+source_system
+business_scaling_model_hypothesis_id
+strategy_hypothesis_group_id
+scaling_lever_id
+event_type
+raw_signal_summary
+semantic_label
+semantic_definition_id
+related_business_objects
+related_variables
+confidence_level
+ambiguity_flags
+created_at
+```
+
+This records the first transformation from surface signal to meaningful business event.
+
+The rule is:
+
+```text
+A signal is not yet knowledge.
+A signal becomes useful only when it is semantically typed.
+```
+
+---
+
+### value_signal
+
+```text
+value_signal_id
+semantic_event_id
+business_scaling_model_hypothesis_id
+strategy_hypothesis_group_id
+scaling_lever_id
+value_domain
+value_question
+expected_value_relevance
+risk_relevance
+proof_relevance
+revenue_relevance
+trust_relevance
+operator_load_relevance
+strategic_relevance
+confidence_level
+reviewer
+created_at
+```
+
+Suggested `value_domain` values:
+
+```text
+viability
+trust
+proof
+revenue
+retention
+activation
+risk
+workload
+strategic_fit
+niche_coupling
+```
+
+This schema makes the kernel ask:
+
+```text
+Why does this matter?
+```
+
+before routing an Action or Clarify Intent.
+
+---
+
 ### external_niche_context
 
 ```text
@@ -2032,6 +2453,42 @@ not ready because of opacity, overload or risk
 
 ---
 
+### hypothesis_record
+
+```text
+hypothesis_record_id
+business_scaling_model_hypothesis_id
+strategy_hypothesis_group_id
+scaling_lever_id
+semantic_event_id
+value_signal_id
+hypothesis_statement
+alternative_hypotheses
+target_variable
+predicted_outcome
+discriminating_probe
+what_would_make_this_wrong
+source_of_truth_outcome
+confidence_level
+status
+owner
+created_at
+last_reviewed_at
+```
+
+This schema captures the inferential step between signal interpretation and action routing.
+
+The key questions are:
+
+```text
+What explains this?
+What else could explain it?
+What would make this wrong?
+What small probe would reduce uncertainty?
+```
+
+---
+
 ### clarify_intent
 
 ```text
@@ -2077,6 +2534,9 @@ mission_id
 strategic_invariant_link
 strategy_arm_name
 niche_context_id
+semantic_event_id
+value_signal_id
+hypothesis_record_id
 state_niche_fit_score
 feedback_path
 source_of_truth_outcome
@@ -2541,8 +3001,11 @@ The minimal schema family supports this loop:
 business_scaling_model_hypothesis
 → strategy_hypothesis_group
 → scaling_lever
+→ semantic_event
+→ value_signal
 → external_niche_context
 → state_niche_fit
+→ hypothesis_record
 → scaling_signal
 → run_dynamics
 → clarify_intent or action_intent
@@ -2559,6 +3022,8 @@ The purpose is to ensure that every adaptive move remains:
 
 ```text
 hypothesis-led
+semantically defined
+value-aware
 source-of-truth grounded
 state–niche aware
 human-gated
@@ -2566,9 +3031,10 @@ workload-aware
 reviewed after delay
 banked only when portable
 ```
+
 ---
 
-## 29. Consolidation and review cadence
+## 32. Consolidation and review cadence
 
 Kastel Stack should not operate as a pure action engine.
 
@@ -2686,6 +3152,7 @@ Which scripts are becoming portable?
 Which scripts should be retired?
 Which automations are creating hidden debt?
 Which semantic definitions need revision?
+Which value assumptions need revision?
 Which policy gates need tightening or loosening?
 Which scaling hypothesis should be exploited, revised, paused or retired?
 ```
@@ -2722,11 +3189,9 @@ daily execution
 → improved future action
 ```
 
-
 ---
 
-
-## 30. First use case: IQ Mindware
+## 33. First use case: IQ Mindware
 
 The first IQ Mindware implementation should begin by defining one or more business scaling model hypotheses rather than assuming a generic growth path.
 
@@ -2735,16 +3200,20 @@ For Zone Coach, one candidate hypothesis is:
 ```text
 A validated cognitive-state readiness app can become a trusted B2B tool for organisations that need a simple, evidence-led way to assess and improve readiness, cognitive control, performance state or resilience before higher-demand training, work, learning or intervention.
 ```
+
 The proposed strategic invariant is:
 
+```text
 state-readiness measurement
 + brief training loop
 + validation/proof posture
 + claim-safe reporting
 + B2B deployment route
+```
 
 The expected cascade is:
 
+```text
 pilot partner
 → cohort use
 → outcome snapshot
@@ -2755,21 +3224,30 @@ pilot partner
 → second partner
 → niche-specific offer
 → repeatable B2B route
+```
 
 The first Kastel question is therefore:
 
+```text
 Which B2B niche makes Zone Coach most legible, trusted and useful?
+```
 
 Candidate niche-context wrappers include:
 
+```text
 corporate performance / resilience
 clinics and wellness institutes
 longevity and cognitive health providers
 education / exam-readiness settings
 sports / performance coaching
 neurofeedback / biofeedback-adjacent providers
+```
 
-Each of these is a different niche-context wrapper. Kastel should not assume one is correct. It should test them.
+Each of these is a different niche-context wrapper.
+
+Kastel should not assume one is correct.
+
+It should test them.
 
 Initial scaling loops include:
 
@@ -2787,7 +3265,7 @@ visitor / lead
 → script or invariant banking
 ```
 
-For IQ Mindware, the strongest early non-linear scaling candidates are::
+For IQ Mindware, the strongest early non-linear scaling candidates are:
 
 ```text
 proof / outcomes flywheel
@@ -2814,9 +3292,9 @@ bank a useful script only when evidence supports it
 
 ---
 
-## 31. Repository contents
+## 34. Repository contents
 
-This repository contains the public scaffolding for Kastel Stack v3:
+This repository contains the public scaffolding for Kastel Stack:
 
 ```text
 manifesto and values documents
@@ -2851,7 +3329,7 @@ a public knowledge base for developing an open adaptive scaling OS
 
 ---
 
-## 32. Getting started
+## 35. Getting started
 
 Recommended first reading path:
 
@@ -2861,7 +3339,7 @@ Recommended first reading path:
 3. 00_manifesto/KASTEL_AS_TRIDENT_G_SCALING_OS.md
 4. 01_architecture/OVERVIEW.md
 5. 01_architecture/SOURCE_OF_TRUTH_REGISTRY.md
-6. 03_kernel/G_KERNEL_V3_SPEC.md
+6. 03_kernel/G_KERNEL_SPEC.md
 7. 03_kernel/STATE_NICHE_FIT.md
 8. 03_kernel/EXTERNAL_NICHE_MAP.md
 9. 03_kernel/CLARIFY_INTENT_ROUTER.md
@@ -2881,10 +3359,13 @@ events
 → semantic definitions
 → nodes / edges
 → metric snapshots
+→ semantic event map
+→ value map
 → business state map
 → external niche map
 → state–niche fit estimate
 → G Kernel diagnostics
+→ hypotheses
 → Clarify Intents / Action Intents
 → Auto / Draft / Escalate routing
 → supervision UI
@@ -2897,7 +3378,7 @@ events
 
 ---
 
-## 33. Current status
+## 36. Current status
 
 Kastel Stack is in early specification and prototype-planning stage.
 
@@ -2908,9 +3389,12 @@ events
 → semantic definitions
 → metric snapshots
 → state-space / variable abstraction
+→ semantic event map
+→ value map
 → external niche context
 → state–niche fit
 → G Kernel diagnostics
+→ hypothesis records
 → Clarify Intents / Action Intents
 → supervision UI
 → outcome observation
@@ -2935,7 +3419,7 @@ workload-aware supervision rather than unlimited Action Intent generation
 
 ---
 
-## 34. What Kastel Stack is not
+## 37. What Kastel Stack is not
 
 Kastel is not:
 
@@ -2944,6 +3428,8 @@ a generic chatbot
 a replacement for business judgement
 an unsupervised agent swarm
 a black-box growth optimiser
+a closed enterprise intelligence platform
+a mission-critical autonomous agent network
 a legal, financial, clinical or regulatory decision engine
 an enterprise surveillance stack
 a promise of autonomous scaling without risk
@@ -2956,7 +3442,7 @@ Kastel Stack is a supervised adaptive operating system for modelling a business,
 
 ---
 
-## 35. Design rule
+## 38. Design rule
 
 The central design rule is:
 
@@ -2964,6 +3450,7 @@ The central design rule is:
 Typed.
 Linked.
 Semantically defined.
+Value-aware.
 Source-of-truth grounded.
 State–niche aware.
 Permissioned.
@@ -2983,6 +3470,8 @@ Every relationship should be explicit.
 
 Every key term should be semantically defined.
 
+Every value assumption should be stated.
+
 Every action should be permissioned.
 
 Every decision should be logged.
@@ -2999,13 +3488,13 @@ Every Clarify Intent should reduce a real uncertainty source.
 
 Every reusable workflow should be tested across at least one relevant wrapper, segment, timing, channel or niche context where feasible.
 
-Every banked script should include evidence, boundary conditions, failure modes, semantic definitions, niche conditions and review status.
+Every banked script should include evidence, boundary conditions, failure modes, semantic definitions, value assumptions, niche conditions and review status.
 
 Every scaling loop should distinguish controlled cascade from chaotic overload.
 
 ---
 
-## 36. Roadmap
+## 39. Roadmap
 
 Early roadmap:
 
@@ -3015,35 +3504,36 @@ Early roadmap:
 3. Finalise source-of-truth registry.
 4. Define D0 measurement and semantic spine.
 5. Define D7 polycentric governance and capability layer.
-6. Draft G Kernel v1.2 specification.
+6. Draft G Kernel specification.
 7. Add Business Scaling Model Hypothesis specification.
-8. Define first IQ Mindware scaling hypotheses.
-9. Define Zone Coach B2B scaling hypothesis.
-10. Add State–Niche Fit specification.
-11. Add External Niche Map specification.
-12. Add Clarify Intent router.
-13. Define base business ontology pack.
-14. Define Action Intent schema.
-15. Define Clarify Intent schema.
-16. Define Business Scaling Model Hypothesis schema.
-17. Define branching-ratio diagnostics.
-18. Create Supabase core migrations.
-19. Build first MiniPC runtime skeleton.
-20. Build first Action/Clarify Intent review UI.
-21. Run first hypothesis-specific priority ordering.
-22. Run first IQ Mindware closed loop.
-23. Run first Zone Coach B2B pilot loop.
-24. Run first wrapper / segment / niche-context comparison.
-25. Run first delayed review.
-26. Bank first reusable Φ-Script.
-27. Extract first slow-Gc invariant candidate.
-28. Detect first controlled branching-ratio signal.
-29. Publish first build-in-public notes.
+8. Define semantic event and value signal schemas.
+9. Define first IQ Mindware scaling hypotheses.
+10. Define Zone Coach B2B scaling hypothesis.
+11. Add State–Niche Fit specification.
+12. Add External Niche Map specification.
+13. Add Clarify Intent router.
+14. Define base business ontology pack.
+15. Define Action Intent schema.
+16. Define Clarify Intent schema.
+17. Define Business Scaling Model Hypothesis schema.
+18. Define branching-ratio diagnostics.
+19. Create Supabase core migrations.
+20. Build first MiniPC runtime skeleton.
+21. Build first Action/Clarify Intent review UI.
+22. Run first hypothesis-specific priority ordering.
+23. Run first IQ Mindware closed loop.
+24. Run first Zone Coach B2B pilot loop.
+25. Run first wrapper / segment / niche-context comparison.
+26. Run first delayed review.
+27. Bank first reusable Φ-Script.
+28. Extract first slow-Gc invariant candidate.
+29. Detect first controlled branching-ratio signal.
+30. Publish first build-in-public notes.
 ```
 
 ---
 
-## 37. Contributing
+## 40. Contributing
 
 Kastel Stack is intended to grow internationally as an open, values-led project.
 
@@ -3072,7 +3562,7 @@ slow-invariant extraction examples
 
 ---
 
-## 38. Cross-border and cross-market learning
+## 41. Cross-border and cross-market learning
 
 Kastel is designed so that different business nodes can operate locally while contributing to a wider pattern language.
 
@@ -3131,7 +3621,7 @@ local node sovereignty
 
 ---
 
-## 39. Security and privacy
+## 42. Security and privacy
 
 Kastel Stack is designed to work with sensitive business data.
 
@@ -3165,7 +3655,7 @@ No non-linear scaling push without quality, workload and trust constraints.
 
 ---
 
-## 40. Licence
+## 43. Licence
 
 Licence to be confirmed.
 
@@ -3173,18 +3663,21 @@ The likely path is to keep the protocol/specification layer open while treating 
 
 ---
 
-## 41. Summary
+## 44. Summary
 
 Kastel Stack is an open, Trident-G-aligned adaptive scaling OS for independent digitally legible businesses and small teams.
 
-It defines the business as a scaling model hypothesis, models the business, connects its tools, detects bottlenecks, maps external niche context, proposes gated actions or clarification moves, preserves human judgement, tests portability and banks what works as reusable operating capability only after evidence, boundary checks, semantic clarity, state–niche fit and delayed review.
+It defines the business as a scaling model hypothesis, models the business, connects its tools, detects bottlenecks, maps external niche context, proposes gated actions or clarification moves, preserves human judgement, tests portability and banks what works as reusable operating capability only after evidence, boundary checks, semantic clarity, value interpretation, state–niche fit and delayed review.
 
 Its deeper purpose is to convert uncertain business adaptation into operational intelligence:
 
 ```text
 business scaling model hypothesis
 → Gf under uncertainty
+→ semantic event interpretation
+→ value interpretation
 → state–niche fit diagnosis
+→ hypothesis generation
 → Clarify Intents or Action Intents
 → observed outcomes
 → branching-ratio diagnosis
@@ -3198,6 +3691,7 @@ The full scaling thesis is:
 ```text
 measurement gives the kernel eyes
 semantic architecture gives it a stable state space
+value interpretation tells it why a signal matters
 state–niche fit keeps it coupled to reality
 governance gives humans decision capacity
 security and privacy create trust
@@ -3220,5 +3714,9 @@ It helps an independent business test whether its offer, niche, proof mechanism,
 
 When that invariant begins to produce controlled B > 1 scaling, Kastel helps turn it into safe, repeatable operating capability while preventing the cascade from becoming chaotic, captured or judgement-eroding.
 ```
+
 The generic operating spine tells Kastel how to stay safe and measurable.
+
 The business scaling model hypothesis tells Kastel what game it is trying to prove.
+
+The G Kernel tells Kastel how to see, infer, test, learn and bank what survives.

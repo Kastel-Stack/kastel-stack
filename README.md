@@ -12,6 +12,58 @@ In Trident-G terms, this is enterprise allostasis: keeping the organisation insi
 
 ---
 
+## Recommended UVP options
+
+### Recommended master UVP
+
+**Kastel Stack is a human-supervised operating system for independent businesses that want to grow intelligently without surrendering judgement, data truth or strategic control to black-box platforms or autonomous AI.**
+
+It helps a business turn signals into better decisions, safe actions, validated scripts and reusable operating intelligence.
+
+### Strongest one-line version
+
+**Kastel Stack helps independent businesses grow without capture by turning live signals into human-gated decisions, safe experiments and banked operating intelligence.**
+
+### Plain-English small-business version
+
+**Kastel is a weekly decision and resilience system for small businesses. It helps you see what matters, choose the next best action, protect the business from avoidable risks, and keep track of what actually works.**
+
+### More technical version
+
+**Kastel Stack is an ontology-driven, human-supervised adaptive scaling OS that maps business signals into state–niche fit, routes Action and Clarify Intents through safety gates, observes source-of-truth outcomes, and banks only validated patterns as reusable Gc.**
+
+### Anti-capture / sovereignty version
+
+**Kastel Stack is an anti-capture business OS for operators who want to use AI, platforms and automation without letting them become the nervous system of the enterprise.**
+
+### Network version
+
+**Kastel Stack is a protocol for mutualistic business networks: each node keeps its own DNA, while validated scripts, proof patterns, risk warnings and field intelligence circulate through a maintained commons.**
+
+### Light Node app version
+
+**Kastel Light is a simple weekly operating app that helps small businesses check their vitals, choose one maintenance action, choose one learning action, review what happened, and bank or share what genuinely worked.**
+
+### Founder / investor version
+
+**Kastel Stack creates a new category of business infrastructure: a human-gated adaptive scaling kernel for independent enterprises, starting as a simple decision app and growing into an ontology-driven network of validated operating intelligence.**
+
+### Tagline options
+
+**Grow without capture.**
+
+**Operational intelligence without surrender.**
+
+**From signals to safe action to reusable business intelligence.**
+
+**A decision OS for sovereign small businesses.**
+
+**AI-assisted scaling with human judgement still in command.**
+
+**The adaptive operating system for businesses that want to stay free, legible and scalable.**
+
+---
+
 ## Core idea
 
 Kastel treats every business as a **scaling model hypothesis**.

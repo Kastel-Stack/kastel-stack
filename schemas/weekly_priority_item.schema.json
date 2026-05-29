@@ -6,10 +6,30 @@
   "required": ["id", "kind", "title", "reason"],
   "properties": {
     "id": { "type": "string" },
-    "kind": { "enum": ["action", "clarify", "review", "boundary"] },
+    "kind": {
+      "enum": [
+        "maintenance",
+        "learning_action",
+        "action",
+        "clarify",
+        "review",
+        "recovery",
+        "boundary",
+        "shareability"
+      ]
+    },
     "title": { "type": "string" },
     "reason": { "type": "string" },
-    "owner": { "type": "string" }
+    "owner": { "type": "string" },
+    "linked_dna": { "type": "string" },
+    "adaptive_field": { "type": "string" },
+    "source_of_truth": { "type": "string" },
+    "state_niche_fit": { "$ref": "./state_niche_fit.schema.json" },
+    "approval_gate": { "enum": ["auto", "draft", "escalate", "blocked"] },
+    "delayed_review_date": { "type": "string", "format": "date" },
+    "shareability_level": {
+      "enum": ["private", "redacted_internal", "network_commons_candidate", "public_safe"]
+    }
   },
   "additionalProperties": false
 }

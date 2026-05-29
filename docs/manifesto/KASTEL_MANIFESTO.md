@@ -1,6 +1,6 @@
 # Kastel Stack Manifesto
 
-**A lawful, polycentric operating stack for independent enterprises in an age of platform capture, AI concentration and strategic dependency.**
+**A lawful, polycentric adaptive organism OS for independent enterprises in an age of platform capture, AI concentration and strategic dependency.**
 
 Kastel Stack begins from a simple premise:
 
@@ -8,13 +8,28 @@ Kastel Stack begins from a simple premise:
 Intelligence should be distributed, not concentrated.
 Human judgement should be preserved, not bypassed.
 Operational truth should remain portable, not captured.
+Businesses should stay alive, adaptive and sovereign.
 ```
 
-Kastel Stack is an open, auditable framework for helping independent operators, small teams, research-led ventures, creator enterprises, artisan businesses and cross-border networks operate more intelligently without surrendering their nervous system to black-box platforms, hyperscaler lock-in, venture-capital growth logic or unsupervised agentic automation.
+Kastel Stack is an open, auditable framework for helping independent operators, small teams, research-led ventures, creator enterprises, artisan businesses and cross-border networks operate as adaptive business organisms without surrendering their nervous system to black-box platforms, hyperscaler lock-in, venture-capital growth logic or unsupervised agentic automation.
 
 It is not a generic productivity system.
 
 It is a practical attempt to build adaptive, human-supervised, anti-capture infrastructure for people and enterprises that need to think, decide, coordinate, grow and recover under conditions of uncertainty.
+
+Kastel's central metaphor is the living business organism:
+
+```text
+DNA = stable UVP / protocol
+Metabolism = weekly maintenance
+Sensors = business and field signals
+Nervous system = semantic and causal model
+Executive function = human judgement and gates
+Immune system = security, continuity and anti-capture controls
+Memory = banked validated scripts
+Ecology = markets, platforms, partners and regulation
+Network = mutualistic commons across local nodes
+```
 
 ---
 

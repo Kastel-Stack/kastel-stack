@@ -9,7 +9,20 @@
     "question": { "type": "string" },
     "uncertainty": { "type": "string" },
     "next_decision": { "type": "string" },
-    "source_of_truth": { "type": "string" }
+    "source_of_truth": { "type": "string" },
+    "clarification_type": {
+      "enum": [
+        "sensor",
+        "semantic",
+        "source_of_truth",
+        "niche",
+        "risk",
+        "portability"
+      ]
+    },
+    "linked_dna": { "type": "string" },
+    "adaptive_field": { "type": "string" },
+    "decision_relevance": { "type": "string" }
   },
   "additionalProperties": false
 }

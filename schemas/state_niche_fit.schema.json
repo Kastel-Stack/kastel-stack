@@ -9,6 +9,22 @@
     "external_legibility": { "type": "number", "minimum": 0, "maximum": 1 },
     "observable_outcome": { "type": "number", "minimum": 0, "maximum": 1 },
     "supervision_capacity": { "type": "number", "minimum": 0, "maximum": 1 },
+    "fit_state": {
+      "enum": [
+        "in_band",
+        "clarify_first",
+        "maintain_first",
+        "protect_first",
+        "overloaded",
+        "locked_in",
+        "spun_out",
+        "cascade_forming"
+      ]
+    },
+    "immune_system_risk": { "type": "number", "minimum": 0, "maximum": 1 },
+    "operator_workload": { "type": "number", "minimum": 0, "maximum": 1 },
+    "source_of_truth_defined": { "type": "boolean" },
+    "delayed_review_defined": { "type": "boolean" },
     "notes": { "type": "string" }
   },
   "additionalProperties": false

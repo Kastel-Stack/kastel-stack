@@ -10,7 +10,27 @@
     "trigger": { "type": "string" },
     "steps": { "type": "array", "items": { "type": "string" } },
     "evidence": { "type": "array", "items": { "type": "string" } },
-    "boundary_conditions": { "type": "array", "items": { "type": "string" } }
+    "boundary_conditions": { "type": "array", "items": { "type": "string" } },
+    "validation_status": {
+      "enum": [
+        "observed",
+        "delayed_checked",
+        "replicated",
+        "cross_context_validated",
+        "banked",
+        "retired"
+      ]
+    },
+    "node_type": { "type": "string" },
+    "source_of_truth_outcome": { "type": "string" },
+    "delayed_reviews_completed": { "type": "integer", "minimum": 0 },
+    "tested_by_node_count": { "type": "integer", "minimum": 0 },
+    "contexts_tested": { "type": "array", "items": { "type": "string" } },
+    "known_failure_modes": { "type": "array", "items": { "type": "string" } },
+    "last_reviewed": { "type": "string", "format": "date" },
+    "shareability_level": {
+      "enum": ["private", "redacted_internal", "network_commons_candidate", "public_safe"]
+    }
   },
   "additionalProperties": false
 }

@@ -1,5 +1,50 @@
 # Kastel Stack — Ground Truth
 
+## Current Canonical Framing
+
+Kastel Stack is a human-guided adaptive operating system that helps independent businesses function more like living organisms: preserving their core DNA, sensing a changing environment, adapting safely, recovering from shocks and scaling without surrendering judgement or data truth to black-box platforms.
+
+Kastel treats the business as an adaptive organism embedded in a changing ecology:
+
+```text
+DNA = stable UVP / protocol
+Metabolism = weekly maintenance and slow scaling
+Sensors = data streams and field signals
+Nervous system = semantic model + ontology + knowledge graph + causal graph + inference kernel
+Executive function = decision cockpit and meta-epistemic gates
+Effectors = actions, probes, content, CRM, product changes and outreach
+Immune system = robustness, compliance, security, continuity and recovery
+Learning system = entropy-MI / far-transfer loop
+Memory = banked Gc scripts, recovery protocols and invariants
+Ecology = markets, niches, platforms, partners and regulatory fields
+Network = local nodes producing mutualistic network effects through shared learning
+Commons = maintained shared artefacts, validation signals, field intelligence and recovery knowledge
+Adoption surface = simple app / card-based interface for Light Nodes
+```
+
+The organism metaphor is not decorative. It defines the architecture. A viable business must maintain itself, sense its environment, act selectively, avoid fatal exposures, adapt under selective pressure, remember what works, recover from damage and participate in wider networks without losing its own integrity.
+
+The compact operating model is:
+
+```text
+stable DNA
++ adaptive sensing
++ semantic grounding
++ causal inference
++ human judgement
++ bounded agentic assistance
++ selective action
++ delayed validation
++ shark-tooth resilience
++ transferable memory
++ maintained commons
++ mutualistic network effects
+```
+
+The primary public protocol for this framing is [Adaptive Organism Protocol](./ADAPTIVE_ORGANISM_PROTOCOL.md).
+
+## Prior Ground-Truth Scaffold
+
 **A Trident-G-aligned, human-supervised adaptive scaling operating system for sovereign, digitally legible enterprises, small teams and cross-border operator networks.**
 
 Kastel Stack is an open, auditable framework for helping independent operators model their business, connect their tools, detect bottlenecks, monitor live market signals, propose safe actions, preserve human judgement, and bank what works as reusable operating capability.

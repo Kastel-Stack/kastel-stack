@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kastel-stack.org/schemas/light_node_weekly_loop.schema.json",
+  "title": "Light Node Weekly Loop",
+  "type": "object",
+  "required": [
+    "week_start",
+    "dna_card",
+    "weekly_vitals",
+    "maintenance_action",
+    "learning_action",
+    "delayed_review"
+  ],
+  "properties": {
+    "week_start": { "type": "string", "format": "date" },
+    "dna_card": {
+      "type": "object",
+      "required": ["core_offer"],
+      "properties": {
+        "core_offer": { "type": "string" },
+        "do_not_change_casually": { "type": "array", "items": { "type": "string" } },
+        "values_protected": { "type": "array", "items": { "type": "string" } },
+        "proof_or_experience": { "type": "array", "items": { "type": "string" } },
+        "claim_boundaries": { "type": "array", "items": { "type": "string" } }
+      },
+      "additionalProperties": false
+    },
+    "weekly_vitals": {
+      "type": "object",
+      "properties": {
+        "cash": { "type": "string" },
+        "sales": { "type": "string" },
+        "customer_feedback": { "type": "string" },
+        "main_channel": { "type": "string" },
+        "delivery_quality": { "type": "string" },
+        "operator_load": { "type": "string" },
+        "main_risk": { "type": "string" },
+        "main_opportunity": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "robustness_prior": { "type": "string" },
+    "scaling_prior": { "type": "string" },
+    "adaptive_field": { "type": "string" },
+    "maintenance_action": { "$ref": "./weekly_priority_item.schema.json" },
+    "learning_action": { "$ref": "./weekly_priority_item.schema.json" },
+    "delayed_review": { "$ref": "./delayed_review.schema.json" },
+    "script_candidate": { "$ref": "./phi_script.schema.json" },
+    "recovery_note": { "type": "string" },
+    "shareability_decision": {
+      "enum": ["do_not_share", "private_only", "redact_first", "network_commons_candidate", "public_safe"]
+    }
+  },
+  "additionalProperties": false
+}

@@ -4,6 +4,12 @@ Kastel Stack is organised as an adaptive organism OS for businesses.
 
 The public architecture is not a central command system. It is a protocol and scaffold for local business nodes that preserve their own DNA, sense their ecology, route decisions through human gates, recover from shocks and share only validated, contextualised learning with a maintained commons.
 
+## Eight-cycle business and learning contract
+
+The [v1.10 business model and G-loop contract](EIGHT_CYCLE_G_LOOP_CONTRACT.md) defines the standard eight-cycle pack, KSSM initialisation, six trajectory states, decision routing, recognition/applicability, bounded candidate comparison and baseline permissions. Use that contract for these details rather than treating the high-level event fabric below as a complete kernel state machine.
+
+The generic kernel is shared across configured business instances; each retains its own model, evidence and memory. During baseline, predictive calibration continues while discretionary policy optimisation is gated. SEO is explicit in Cycle 1 with technical implementation in Cycle 4 and relationship routes in Cycle 5.
+
 ## Organism Layers
 
 | Layer | Architecture responsibility | Primary artefacts |

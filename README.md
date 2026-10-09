@@ -96,6 +96,10 @@ Kastel Stack treats the business as an adaptive organism embedded in a changing 
 
 The organism metaphor is architectural, not decorative. A viable business must maintain itself, sense its environment, act selectively, avoid fatal exposures, adapt under selective pressure, remember what works, recover from damage and participate in wider networks without losing its own integrity.
 
+## Eight-cycle product contract
+
+The [Eight-cycle business model and G-loop contract](./docs/EIGHT_CYCLE_G_LOOP_CONTRACT.md) specifies the current v1.10 product behaviour: eight business cycles, latent-state inference, SEO, configurable sensing/action/KPI capabilities, recognition-aware Tune/Recall/Reopen routing and baseline-first operation. It is the controlling public specification for those subjects; older high-level loops below are summaries. Runtime implementation and activation remain separate.
+
 ## Operating Loop
 
 The full Kastel loop is:
@@ -249,7 +253,7 @@ Kastel is designed to make human judgement easier, not bypass it.
 
 ## Current Status
 
-Kastel Stack is in early specification and prototype-planning stage.
+Kastel Stack remains in specification and staged prototype development. The [v1.10 eight-cycle product contract](./docs/EIGHT_CYCLE_G_LOOP_CONTRACT.md) is specified; this repository does not yet establish a complete running implementation of that contract.
 
 The first implementation target is a Light Node weekly operating loop:
 

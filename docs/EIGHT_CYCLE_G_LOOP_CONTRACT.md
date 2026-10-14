@@ -4,6 +4,8 @@
 **Date:** 9 October 2026  
 **Status:** specified product contract; runtime implementation, migration, validation and activation are separate.
 
+**Proposed review-branch clarification (14 October 2026):** sensing breadth is matched to the decision. The **eight cycles and KSSM** define routine operation; strategic/horizon discovery is **optional**, not an always-on requirement or new default runtime capability.
+
 This contract extends the [organism architecture](ARCHITECTURE.md) with the standard eight-cycle business model, recognition-aware G-loop and baseline-first operating mode. For these subjects it takes precedence over older high-level summaries in this repository. It does not replace existing human gates, source-of-truth rules or the [public/private boundary](PUBLIC_PRIVATE_BOUNDARY.md).
 
 ## Generic product and configured instances
@@ -50,6 +52,24 @@ These are potential integration capabilities, not claims that connectors are imp
 
 Read access never grants write authority. Action contracts include preconditions, cost/capacity bounds, approval route, deduplication, expected outcome, stop conditions and receipts. Sources cannot manufacture legal or causal certainty.
 
+### Sensing scope and operating horizon (proposed clarification)
+
+**The business KSSM and eight cycles substantially predefine the operating and intervention space; the external niche is not fixed.** Treat sensing as **three scopes**, configured per node and cycle rather than a universal discovery workload:
+
+| Scope | Purpose / regularity | Example evidence and consequence |
+| --- | --- | --- |
+| **O — Operational sensing** | **Core, regular**, according to KPI cadence and evidence maturity | Checkout, reserves, tasks, quality, actual outcomes; verify measurement and execution before inference |
+| **N — Niche and coupling sensing** | **Core but relevance-led and targeted**, including owner-reported or material-event changes | Customer needs and objections, partner and supplier responses, environmental conditions affecting existing offers/interventions |
+| **S — Strategic/horizon discovery** | **Optional**, separately bounded by a scheduled strategic review, credible external trigger or owner request | New niche, research method, technology, business model or opportunity **outside** the current KSSM; propose an inspectable change hypothesis, not automatic action |
+
+**Normal small-business operation prioritises O and relevant N.** “Market/research feeds” in Cycle 1 (and “research records” in Cycle 4) are **potential adapters**, not a mandatory continuous broad scanner. A Light Node may rely on manually entered operational and local niche observations, with no horizon feed or paid API.
+
+A **fast operating G-Loop** handles problems and opportunities within the existing model. A **slower strategic-orientation G-Loop**, when invoked, uses the **same kernel operations** to ask whether the KSSM or intervention possibilities should change. Any resulting R2/R3 reopening, model change, new action type or expense remains separately versioned, owner-approved and governed. **Baseline mode may observe, orient and record shadow candidates but cannot execute discretionary strategy changes.**
+
+Neither a productive GROWING cycle nor a BANKED rule obliges global scanning. A material regulatory shock, repeated unexplained discrepancy, meaningful new dependency or credible outside-model opportunity can justify a scoped review; a single weak signal does not.
+
+**Conformance (future test):** routine O/N operation succeeds with S disabled; a relevant niche shock is noticed without mandatory broad search; S can propose model/strategy review but does not execute, consume unapproved money or escape mode/authority gates. Comparing S against simple sensing must account for false positives, operating load and incremental benefit. No new connector is enabled by this proposal.
+
 ## Evidence and causal modelling
 
 Use the explicit sequence: observation → observation model → latent-state estimate/confidence/precision → generative expectation → action/outcome → prediction error.
@@ -75,7 +95,7 @@ Store cycle and horizon with each state. One flat observation does not establish
 
 The kernel operates from current KSSM expectations:
 
-1. SENSE observations and LOCATE the cycle/horizon state.
+1. SENSE **operational O and relevant niche N observations** and LOCATE the cycle/horizon state; include optional, explicitly invoked **strategic S** orientation only under its separate budget/trigger.
 2. RECALL relevant banked strategies and ASSESS APPLICABILITY.
 3. Select/generate a small bounded Candidate Workspace with provenance.
 4. FORECAST plausible futures.

@@ -100,6 +100,8 @@ The organism metaphor is architectural, not decorative. A viable business must m
 
 The [Eight-cycle business model and G-loop contract](./docs/EIGHT_CYCLE_G_LOOP_CONTRACT.md) specifies the current v1.10 product behaviour: eight business cycles, latent-state inference, SEO, configurable sensing/action/KPI capabilities, recognition-aware Tune/Recall/Reopen routing and baseline-first operation. It is the controlling public specification for those subjects; older high-level loops below are summaries. Runtime implementation and activation remain separate.
 
+**Scope-calibrated sensing (proposed on this review branch):** within the defined KSSM and eight business cycles, **operational (O)** sensing and relevant **niche/coupling (N)** sensing are primary. A wider **strategic/horizon (S)** scan for novel markets, research or opportunities is **optional, owner-budgeted and periodic or materially triggered**; it is not an always-on requirement for Light Nodes. Both faster operating reviews and slower strategic reviews use the same G-Loop, with separate action/model revision gates. See [sensing scope and operating horizon](./docs/EIGHT_CYCLE_G_LOOP_CONTRACT.md#sensing-scope-and-operating-horizon-proposed-clarification).
+
 ## Operating Loop
 
 The full Kastel loop is:
